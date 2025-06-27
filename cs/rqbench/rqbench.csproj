@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="System.IO.Compression.ZipFile" Version="7.0.0" />
     <PackageReference Include="System.Formats.Tar" Version="7.0.0" />
+    <PackageReference Include="AWSSDK.S3" Version="3.7.104.1" />
   </ItemGroup>
 
 </Project>
